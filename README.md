@@ -1,2 +1,2 @@
 # hello-world
-Hello Word Example
+This is a Hello Word Example
